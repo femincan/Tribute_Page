@@ -2,4 +2,4 @@
 
 ## FreeCodeCamp responsive web design project
 
-- ### Codepen link is [here](https://codepen.io/realstankle/full/vYWJgpd)
+- ### Codepen link is [here](https://codepen.io/femincan/full/vYWJgpd)
